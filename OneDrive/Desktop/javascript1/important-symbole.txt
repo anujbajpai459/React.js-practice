@@ -1,0 +1,20 @@
+| Symbol    | Name                         |   |            |
+| `` ` ` `` | Backticks / Template Literal |   |            |
+| `/`       | Forward Slash                |   |            |
+| `""`      | Double Quotes                |   |            |
+| `''`      | Single Quotes                |   |            |
+| `{}`      | Curly Braces                 |   |            |
+| `[]`      | Square Brackets              |   |            |
+| `()`      | Parentheses / Round Brackets |   |            |
+| `;`       | Semicolon                    |   |            |
+| `:`       | Colon                        |   |            |
+| `,`       | Comma                        |   |            |
+| `.`       | Dot / Period                 |   |            |
+| `=>`      | Arrow                        |   |            |
+| `...`     | Spread Operator              |   |            |
+| `#`       | Hash                         |   |            |
+| `@`       | At Symbol                    |   |            |
+| `&&`      | Logical AND                  |   |            |
+| `         |                              | ` | Logical OR |
+| `!`       | NOT                          |   |            |
+| `===`     | Strict Equality              |   |            |
